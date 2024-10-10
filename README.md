@@ -32,8 +32,21 @@
 ![صورة 8](https://github.com/user-attachments/assets/7b95e17b-9617-4551-9149-b097033afeb1)
 ![أيقونة التطبيق](https://github.com/user-attachments/assets/5cac1eb0-ba74-4a0a-abd5-d4c37ef12d84)
 
+---
+
+## 📬 **الدعم والملاحظات**
+
+للدعم أو تقديم الملاحظات أو إرسال نسخ صوتية بجودة أعلى، يرجى التواصل معنا عبر الروابط التالية:
+
+- 🌐 **الموقع على GitHub**: [mp30quran على GitHub](https://github.com/mp30quran)
+- 📱 **قناتنا على Telegram**: [mp30qurantv على Telegram](https://t.me/mp30qurantv)
+- 📘 **صفحتنا على Facebook**: [mp30quran على Facebook](https://facebook.com/mp30quran)
+- 🛍️ **تطبيقاتنا على Google Play**: [Android Prof على Google Play](https://play.google.com/store/apps/developer?id=Android+Prof)
+- 🌍 **الموقع الإلكتروني**: [mp30quran - الموقع الرسمي](https://sites.google.com/view/mp30quran/home)
+- 💻 **صفحتنا على SourceForge**: [mp30quran على SourceForge](https://mp30quran.sourceforge.io/)
 
 ---
+
 
 ## 🙏 **لا تنسونا من الدعاء الصالح!**
 
