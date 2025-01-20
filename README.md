@@ -2,6 +2,13 @@
 
 # **برنامج الأذكار - بدون نت**
 
+# برنامج الأذكار - بدون نت
+
+| النسخة            | المتجر                 | رابط التحميل                                                                                          |
+|--------------------|------------------------|-------------------------------------------------------------------------------------------------------|
+| نسخة Google Play  | جوجل بلاي              | [تحميل من Google Play](https://github.com/mp30quran/adhkar-offline/releases/download/v6/adhkar-offline_v6.apk) |
+| نسخة Huawei       | هواوي آب جاليري        | [تحميل من Huawei AppGallery](https://github.com/mp30quran/adhkar-offline/releases/download/v1-huawei/v1-huawei-adhkar-offline.apk) |
+
 يوجد نسختين من البرنامج:  
 - **نسخة من موقع جوجل بلاي**  
 - **نسخة من موقع هواوي آب جاليري**  
