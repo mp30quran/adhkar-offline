@@ -5,16 +5,16 @@
 يوجد نسختين من البرنامج:  
 - **نسخة من موقع جوجل بلاي**  
 - **نسخة من موقع هواوي آب جاليري**  
-النسخ موجودة في قسم "الريليس" أعلى يمين الصفحة [رابط قسم الريليس](https://github.com/mp30quran/adhkar-offline/releases)
-
-# برنامج الأذكار - بدون نت
+النسخ موجودة في قسم "الريليس" أعلى يمين الصفحة
 
 | النسخة            | المتجر                 | رابط التحميل                                                                                          |
 |--------------------|------------------------|-------------------------------------------------------------------------------------------------------|
 | نسخة Google Play  | جوجل بلاي              | [تحميل من Google Play](https://github.com/mp30quran/adhkar-offline/releases/download/v6/adhkar-offline_v6.apk) |
 | نسخة Huawei       | هواوي آب جاليري        | [تحميل من Huawei AppGallery](https://github.com/mp30quran/adhkar-offline/releases/download/v1-huawei/v1-huawei-adhkar-offline.apk) |
 
+ [رابط قسم الريليس](https://github.com/mp30quran/adhkar-offline/releases)
 
+ 
 - **نسخة من موقع جوجل بلاي**  
 
 ![أيقونة التطبيق](https://github.com/user-attachments/assets/5cac1eb0-ba74-4a0a-abd5-d4c37ef12d84)
