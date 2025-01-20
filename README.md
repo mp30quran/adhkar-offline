@@ -2,6 +2,14 @@
 
 # **برنامج الأذكار - بدون نت**
 
+يوجد نسختين من البرنامج:  
+- **نسخة من موقع جوجل بلاي**  
+- **نسخة من موقع هواوي آب جاليري**  
+
+النسخ موجودة في قسم "الريليس" أعلى يمين الصفحة.
+
+- **نسخة من موقع جوجل بلاي**  
+
 ![أيقونة التطبيق](https://github.com/user-attachments/assets/5cac1eb0-ba74-4a0a-abd5-d4c37ef12d84)
 
 ![صورة 1](https://github.com/user-attachments/assets/45785b01-395d-4ae8-af90-7f909646ac74)
@@ -34,16 +42,19 @@
 
 ---
 
-## 📬 **الدعم والملاحظات**
+- **نسخة من موقع هواوي آب جاليري**  
 
-للدعم أو تقديم الملاحظات أو إرسال نسخ صوتية بجودة أعلى، يرجى التواصل معنا عبر الروابط التالية:
+![Screenshot_1737263857](https://github.com/user-attachments/assets/59b899f8-2a57-4eef-bb92-e4091e6d04a3)
 
-- 🌐 **الموقع على GitHub**: [mp30quran على GitHub](https://github.com/mp30quran)
-- 📱 **قناتنا على Telegram**: [mp30qurantv على Telegram](https://t.me/mp30qurantv)
-- 📘 **صفحتنا على Facebook**: [mp30quran على Facebook](https://facebook.com/mp30quran)
-- 🛍️ **تطبيقاتنا على Google Play**: [Android Prof على Google Play](https://play.google.com/store/apps/developer?id=Android+Prof)
-- 🌍 **الموقع الإلكتروني**: [mp30quran - الموقع الرسمي](https://sites.google.com/view/mp30quran/home)
-- 💻 **صفحتنا على SourceForge**: [mp30quran على SourceForge](https://mp30quran.sourceforge.io/)
+![Screenshot_1737339461](https://github.com/user-attachments/assets/e0df5768-f263-4dfe-99bd-86bf030fca99)
+
+![Screenshot_1737339468](https://github.com/user-attachments/assets/170bb516-9189-43ac-9ebb-d4a68e5da529)
+
+![Screenshot_1737339480](https://github.com/user-attachments/assets/a022ebcb-2da0-4ef4-80b5-07b4f85507f8)
+
+
+
+
 
 ---
 
